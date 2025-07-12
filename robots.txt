@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://meta-tag-previewer-global.netlify.app/sitemap.xml
+Sitemap: https://previewer-mata-tag-global.netlify.app/sitemap.xml
